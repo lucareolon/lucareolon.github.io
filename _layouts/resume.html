@@ -232,9 +232,25 @@
       {% endif %}
 
       <footer class="page-footer">
-        <p class="footer-line">Made by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork me on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
-        <p class="footer-line">If this is your live resume, you can modify or remove this part. ;-)</p>
+        <p class="footer-line" id="todays-date"></p>
       </footer>
+      
+      <script>
+        // Get today's date
+        var today = new Date();
+        
+        // Format the date as a string (e.g. "May 12, 2023")
+        var dateString = today.toLocaleDateString('en-US', { 
+          month: 'long', 
+          day: 'numeric', 
+          year: 'numeric' 
+        });
+        
+        // Update the "footer-line" element with the date string
+        var footerLine = document.getElementById('todays-date');
+        footerLine.innerHTML = "Luca Reolon Resume - " + dateString;
+      </script>
+      
 
     </div>
 

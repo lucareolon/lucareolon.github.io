@@ -1,13 +1,13 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Master of Applied Science (M.A.Sc.), Mechanical Engineering
+  uni: McMaster University
+  year: 2019 &mdash; 2020
+  #awards:
+  #  - award: Summa Cumme Laude graduate
+  summary: Thesis "Comparison of Structure, Propertie and Wear Performance of Coatings Applied by HiPIMS and CAE PVD Deposition Methods During the Machining of Difficult-to-Machine Alloys"
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
+- degree: Bachelor of Engineering (B.Eng.), Mechanical Engineering
+  uni: Pontifical Catholic University of Paraná
+  year: 2018
+  #award: Most likely to succeed
   summary: You can choose to have either a single or multiple awards
