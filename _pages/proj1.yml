@@ -1,8 +1,5 @@
 ---
-layout: resume
-title: Project 1
+layout: page
+title: About
+permalink: /about/
 ---
-
-# Project 1
-
-This is my first project. Here's what it's all about...
