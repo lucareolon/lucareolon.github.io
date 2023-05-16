@@ -1,5 +1,5 @@
 # Site settings
-title: "Luca Reolon Resume"
+title: "Luca W. Reolon Resume"
 description: "Resume."
 
 # Build settings
@@ -47,7 +47,7 @@ resume_section_associations:    true
 resume_social_links:
   resume_github_url:        "https://github.com/lucareolon"    
   #resume_twitter_url:           
-  #resume_dribbble_url:          
+  resume_dribbble_url:          "https://scholar.google.ca/citations?user=leCZcn0AAAAJ"
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/lucawreolon/"
   # resume_instagram_url:         "insert your Instagram URL here"
